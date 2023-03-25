@@ -27,7 +27,7 @@ To cater to the needs of teenagers, providing easy lending and borrowing feature
 Khushal, a teenager who is currently facing a financial crunch, is feeling hesitant to ask his friends for help due to his introverted nature. Fortunately, his friend Shruti recommended FamPay, an online payment app that offers a unique solution for anonymous borrowing and lending. This feature provides Khushal with the option to borrow money from an unknown source, without compromising his privacy or risking any social awkwardness. With FamPay's anonymous borrowing and lending feature, Khushal can now access the funds he needs, without having to step out of his comfort zone.
 
 
-![Android Large - 1](https://user-images.githubusercontent.com/72563220/227746408-c8a45485-0059-4716-aa3c-c0d1821b7ea3.png)
+![Android Large - 1](https://user-images.githubusercontent.com/72563220/227746408-c8a45485-0059-4716-aa3c-c0d1821b7ea3.png){:height="100px" width="100px"}
 ![Android Large - 8](https://user-images.githubusercontent.com/72563220/227746427-d4c4c2a4-f500-4459-b3b5-d86bfb8425ed.png)
 
 
