@@ -1,6 +1,18 @@
 ﻿# CyberSprint2k23
 
-FAMPAY  RENASCENCE
+FAMPAY  RENASCENCE REACT_NATIVE BASED (ANDROID/IOS) APP
+
+BASIC REACT APP WITH LOGIN FUNCTIONALITY ( WITH BOTH PASSWORD AND FINGERPRINT) TO DEMONSTRATE THE CONCEPT IDEA OF POTENTIAL ADDITION OF NEW FEATURE TO FAMPAY's Original APP. 
+
+
+
+![ask](https://user-images.githubusercontent.com/72563220/227749883-04ff7322-c085-49f1-8bd6-c6cf07e26a86.png)
+
+
+
+Abstract:
+
+To cater to the needs of teenagers, providing easy lending and borrowing features along with some unique features like spending analysis and a Pot feature. With a user-friendly interface, the app enables teens to conveniently send and receive money and keep track of their finances. The spending analysis feature allows users to view their friends' spending habits and patterns, helping them understand their own spending habits and adjust accordingly. Additionally, the Pot feature enables users to save money for a specific goal or plan, encouraging financial discipline and planning. With its focus on the teenage demographic, this online payment app aims to provide an engaging and interactive experience that promotes responsible financial management.
 
 
 Group Members:
@@ -14,16 +26,6 @@ Ankan Bose
 
 Submitted by Students of  B.E.(Hons) Information Security
 Chandigarh University , Mohali ,Punjab.
-
-![ask](https://user-images.githubusercontent.com/72563220/227749883-04ff7322-c085-49f1-8bd6-c6cf07e26a86.png)
-
-
-
-Abstract:
-
-To cater to the needs of teenagers, providing easy lending and borrowing features along with some unique features like spending analysis and a Pot feature. With a user-friendly interface, the app enables teens to conveniently send and receive money and keep track of their finances. The spending analysis feature allows users to view their friends' spending habits and patterns, helping them understand their own spending habits and adjust accordingly. Additionally, the Pot feature enables users to save money for a specific goal or plan, encouraging financial discipline and planning. With its focus on the teenage demographic, this online payment app aims to provide an engaging and interactive experience that promotes responsible financial management.
-
-
 
 1.	Problem Statement:
 Khushal, a teenager who is currently facing a financial crunch, is feeling hesitant to ask his friends for help due to his introverted nature. Fortunately, his friend Shruti recommended FamPay, an online payment app that offers a unique solution for anonymous borrowing and lending. This feature provides Khushal with the option to borrow money from an unknown source, without compromising his privacy or risking any social awkwardness. With FamPay's anonymous borrowing and lending feature, Khushal can now access the funds he needs, without having to step out of his comfort zone.
